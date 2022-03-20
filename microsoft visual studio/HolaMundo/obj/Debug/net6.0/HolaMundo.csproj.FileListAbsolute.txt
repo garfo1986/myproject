@@ -1,0 +1,5 @@
+C:\Users\Jason\Desktop\pythoncode\microsoft visual studio\HolaMundo\obj\Debug\net6.0\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\pythoncode\microsoft visual studio\HolaMundo\obj\Debug\net6.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\pythoncode\microsoft visual studio\HolaMundo\obj\Debug\net6.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\pythoncode\microsoft visual studio\HolaMundo\obj\Debug\net6.0\HolaMundo.AssemblyInfo.cs
+C:\Users\Jason\Desktop\pythoncode\microsoft visual studio\HolaMundo\obj\Debug\net6.0\HolaMundo.csproj.CoreCompileInputs.cache
