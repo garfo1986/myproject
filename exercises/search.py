@@ -4,7 +4,7 @@ url_base = "https://api.spotify.com/v1"
 
 token_url = 'https://accounts.spotify.com/api/token'
 params = {'grant_type': 'client_credentials'}
-headers = {'Authorization' : 'Basic YzgyMjM4NDQ2Zjg3NGVhMTk1ZWY2NzUwYWRiNTNjZGI6MmUxMjcwMTk4MzY5NDQxMmEyN2NmNzU3NWRhNTI1OTc='}
+headers = {'####################}
 
 r = requests.post(token_url, data=params, headers=headers)
 dic_token = r.json()
